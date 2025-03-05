@@ -53,6 +53,7 @@
         <div class="h-full overflow-y-auto pt-16 px-6 pb-6">
           <div class="bg-white rounded-lg shadow p-6">
             <form @submit.prevent="handleSubmit" class="space-y-6">
+              
               <!-- Letter Type -->
               <div class="flex items-center gap-4">
                 <label class="font-medium w-24 text-lg">Type:</label>
