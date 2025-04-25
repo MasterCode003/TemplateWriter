@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "my-letter-system",
   "private": true,
@@ -42,3 +43,6 @@
     "vite": "^5.4.16"
   }
 }
+=======
+
+>>>>>>> 10d550bfb4c5989b6e991b5e31a0cb5e8c6cf1c7
